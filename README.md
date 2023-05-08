@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Hangman game, written in Python.
 
-**Prerequisites
+**Prerequisites88
 
 To run this game on your local machine, you will need:
 
