@@ -26,14 +26,14 @@ Run the game:
 
 The objective of the game is to guess the hidden word by suggesting letters one at a time. You have a limited number of guesses, represented by the Hangman graphic. If you guess a correct letter, it will appear in the corresponding blanks. If you guess a wrong letter, a body part will be added to the Hangman graphic. You win the game if you can guess the word before the Hangman graphic is complete.
 
-**Built With**
+# Built With
 
 - Python
 
-**Authors**
+# Author
 
 maurm4r
 
-**License**
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
