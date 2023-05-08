@@ -6,7 +6,7 @@ This is a simple implementation of the classic Hangman game, written in Python.
 
 To run this game on your local machine, you will need:
 
-Python 3.x
+-Python 3.x
 
 **Installing**
 
