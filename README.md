@@ -15,7 +15,7 @@ To run this game on your local machine, you will need:
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/hangman.git
+git clone https://github.com/kozenets/Hangman.git
 ```
 
 2. Navigate to the cloned repository:
